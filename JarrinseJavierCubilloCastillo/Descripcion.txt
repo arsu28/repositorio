@@ -2,3 +2,16 @@ Hola me llamo Jarrinse Cubillo.
 
 
 Y juego eurotrucksimulator los sabados.
+
+  # agregando el repositorio de arsu para poder vincularlo
+  git remote add arsu https://github.com/arsu28/repositorio.git
+  
+
+  # ver repositorios 
+  git remote -v
+  
+  # actualizando con el proyecto de arlette
+  git pull arsu master
+
+
+aescobar
