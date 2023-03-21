@@ -1,8 +1,8 @@
 Hola! Soy julio ernesto hurtado calero
 	Me gusta dormir XD
 
-<<<<<<< HEAD
+
 Estoy modificando el archivo Julio Ernesto
-=======
+
 Archivo modificado
->>>>>>> 8d0c7e1a958f64dd50249b72148de9033e6ddf5e
+
