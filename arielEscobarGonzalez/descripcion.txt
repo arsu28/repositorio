@@ -1,5 +1,9 @@
+  # agregando el repositorio de arsu para poder vincularlo
   git remote add arsu https://github.com/arsu28/repositorio.git
-  git status
-  git pull
+  
+
+  # ver repositorios 
   git remote -v
+  
+  # actualizando con el proyecto de arlette
   git pull arsu master
